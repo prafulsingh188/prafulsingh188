@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prafulsingh188
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email:- prafulsingh188@gmail.com
 
